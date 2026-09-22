@@ -1,2 +1,2 @@
 # Jeu-de-la-vie
-Il s'agit du jeu de la vie codé en python
+Implémentation en Python du Jeu de la Vie, le célèbre automate cellulaire mathématique conçu par John Horton Conway en 1970.
